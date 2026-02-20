@@ -31,3 +31,6 @@ Three main model types were used, logistic regression, KNN classifier and variou
 -	Our model can be used to predict on a district-wide level flood risk
 -	Our results confirm the intuition that areas with low, especially local, elevation experiencing heavy rainfall and with low drainage are the most at risk areas
 -	These areas, typically located in southeast Asia, should receive targeted funding and residents living there (especially newcomers) must be fully aware of the flood risks
+
+### Team
+Nicholas Stanfield, Arantzazu Arregui, Zacharie Houle, Chloee Liew, Monica Jang
