@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-As flooding becomes more and more frequent due to climate change and intense urbanization it is vital that communities and policymakers have an accurate sense of where flooding is likely to occur. This project aims to aid decision-makers in predicting flood risk to identify high risk areas in need of intervention
+As flooding becomes more and more frequent due to climate change and intense urbanization, it is vital that communities and policymakers have an accurate sense of where flooding is likely to occur. This project aims to aid decision-makers in predicting flood risk to identify high risk areas in need of intervention
 
 ## Dataset
 
