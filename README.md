@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-As flooding becomes more and more frequent due to climate change and intense urbanization, it is vital that communities and policymakers have an accurate sense of where flooding is likely to occur. This project aims to aid decision-makers in predicting flood risk to identify high risk areas in need of intervention
+As flooding becomes more and more frequent due to climate change and intense urbanization in high risk zones, it is vital that communities and policymakers have an accurate sense of where flooding is likely to occur. This project aims to aid decision-makers in predicting flood risk to identify high risk areas in need of intervention.
 
 ## Dataset
 
@@ -22,7 +22,7 @@ All skewed columns were log transformed and scaled. Any missing values were impu
 
 ## Results
 
-Three main model types were used, logistic regression, KNN classifier and various types of decision trees. The most consistent and most generalisable model was the KNN classifier with a test set accuracy of 86.20%. We also ran some explainable AI techniques such as SHAP to see the key drivers of predictions. The most important typically being evaluation (absolute and local), historical rainfall and level of drainage.
+Three main model types were used, logistic regression, KNN classifier and various types of decision trees. The most consistent and most generalisable model was the KNN classifier with a test set accuracy of 86.20%. We also ran some explainable AI techniques such as SHAP to see the key drivers of predictions. The most important typically being elevation (absolute and local), historical rainfall and level of drainage.
 
 <img src="data/shap.png" width="600" height="500">
 
